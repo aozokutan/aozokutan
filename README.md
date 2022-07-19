@@ -1,5 +1,5 @@
 <h1  align="center"> Hello! I'm Ahmet 👋</h1>
-Welcome to my profile!
+Welcome to my profile!<br /><br />
 I am a Software Engineering Consultant with over 8 years of experience. I develop scalable and maintainable high-volume software throughout the product lifecycle with
 best case solutions.
 
